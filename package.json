@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@hutechcollege/voluptatibus-eaque-aperiam-deleniti",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,36 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/hutechcollege/voluptatibus-eaque-aperiam-deleniti.git"
   },
   "dependencies": {
+    "@hutechcollege/a-explicabo-voluptas-accusamus": "^1.0.0",
+    "@hutechcollege/accusantium-ipsum-a-fugiat": "^1.0.0",
+    "@hutechcollege/ad-nisi-saepe-aperiam": "^1.0.0",
+    "@hutechcollege/alias-architecto-dolores-iste": "^1.0.0",
+    "@hutechcollege/asperiores-dicta-quos-maxime": "^1.0.0",
+    "@hutechcollege/cumque-nobis-ipsa-praesentium": "^1.0.0",
+    "@hutechcollege/cumque-officia-cum-recusandae": "^1.0.0",
+    "@hutechcollege/doloremque-cupiditate-harum-eveniet": "^1.0.0",
+    "@hutechcollege/ea-tempora-et-qui": "^1.0.0",
+    "@hutechcollege/fugiat-molestiae-quia-ullam": "^1.0.0",
+    "@hutechcollege/harum-eligendi-suscipit-modi": "^1.0.0",
+    "@hutechcollege/hic-perferendis-natus-iste": "^1.0.0",
+    "@hutechcollege/laboriosam-quasi-sapiente-praesentium": "^1.0.0",
+    "@hutechcollege/nobis-reprehenderit-quibusdam-fugiat": "^1.0.0",
+    "@hutechcollege/odit-deserunt-repellat-numquam": "^1.0.0",
+    "@hutechcollege/pariatur-minima-earum-hic": "^1.0.0",
+    "@hutechcollege/pariatur-quaerat-ex-animi": "^1.0.0",
+    "@hutechcollege/provident-atque-non-ea": "^1.0.0",
+    "@hutechcollege/quia-veniam-iste-inventore": "^1.0.0",
+    "@hutechcollege/repellat-quas-itaque-ex": "^1.0.0",
+    "@hutechcollege/saepe-accusantium-tempore-aliquam": "^1.0.0",
+    "@hutechcollege/sapiente-omnis-sunt-explicabo": "^1.0.0",
+    "@hutechcollege/temporibus-aliquid-voluptate-expedita": "^1.0.0",
+    "@hutechcollege/vitae-doloribus-officiis-illum": "^1.0.0",
+    "@hutechcollege/voluptates-dicta-ratione-vero": "^1.0.0",
+    "coding-course-api": "^0.1.2",
+    "saoviet-caculator": "^0.1.2",
+    "saoviet-caculator-module": "^0.1.1"
   }
 }
